@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<a href="https://lucid.app/documents#/templates?folder_id=home"></a>
+onde foi feito o diagrama de casos de uso
+
+
+Projeto criado para controle de hospedes em hosteis, o projeto sera capaz 
+de cadastrar os hospedes, exibir o valor total a ser pago e o tempo em que
+eles ficaram hospedados, alem de seus quartos
